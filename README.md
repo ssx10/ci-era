@@ -1,4 +1,4 @@
-# ci-era
+# Exam Registration App Demo
 Playing with CodeIgniter framework. A simple exam registration app.
 
 ## Running the Project 
