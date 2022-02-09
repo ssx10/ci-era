@@ -37,3 +37,11 @@ You can find the login credentials being inserted through Seeder files. See `Use
 ### Professor (Email => Password)
 `a.professor@concordia.ab.ca` =>  `%T^Y123A`
 
+## Destroying the Project 
+
+CONTROL + C to stop containers, and use the following to destroy the containers.
+
+```
+docker-compose down
+```
+
