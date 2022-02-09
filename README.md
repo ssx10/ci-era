@@ -4,7 +4,7 @@ Playing with CodeIgniter framework. A simple exam registration app.
 ## Running the Project 
 The project requires only Docker CE installed on your system. PHP and MariaDB will be installed inside the containers. For more info, see `docker-compose.yml` file in the root directory.
 
-Once you the docker running:
+Once you have the docker running:
 
 Go to the root directory
 ```
