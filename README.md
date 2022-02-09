@@ -25,9 +25,9 @@ You should be able to access the app on `http://localhost:8080/`
 You can find the login credentials being inserted through Seeder files. See `UserSeeder.php`
 
 ### Students (Email => Password)
-`a.student@concordia.ab.ca` =>  `QwErTy!2#4`
-`b.student@concordia.ab.ca` =>  `1234Pwrd!`
-`c.student@concordia.ab.c` =>  `sF#r9sdfj`
+`a.student@concordia.ab.ca` =>  `QwErTy!2#4` <br />
+`b.student@concordia.ab.ca` =>  `1234Pwrd!` <br />
+`c.student@concordia.ab.c` =>  `sF#r9sdfj` <br />
 
 ### Professor (Email => Password)
 `a.professor@concordia.ab.ca` =>  `%T^Y123A`
