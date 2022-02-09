@@ -1,0 +1,5 @@
+*.DS_Store
+/myapp/writable/session/*
+!/myapp/writable/session/index.html
+/myapp/writable/logs/*
+!/myapp/writable/logs/index.html
