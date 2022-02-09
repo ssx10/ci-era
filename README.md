@@ -6,6 +6,11 @@ The project requires only Docker CE installed on your system. PHP and MariaDB wi
 
 Once you the docker running:
 
+Go to the root directory
+```
+docker-compose up
+```
+
 Connect myapp container (e.g. for Mac `ci-era-myapp-1`, for Windows `ci-era_myapp_1`)
 ```
 docker exec -it ci-era-myapp-1 bash
